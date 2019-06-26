@@ -1,0 +1,3 @@
+rootProject.name = 'rollrater_5215'
+
+include ':app'
